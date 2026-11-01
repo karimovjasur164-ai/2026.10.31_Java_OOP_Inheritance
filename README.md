@@ -26,7 +26,7 @@ public class Dog extends Main {
 }
 ```
 ***
-### *Super*
+### *Super*  ![Super()](https://img.shields.io/badge/Super()-red)
 **Java - da `Super()` - ota `class` konsturktorini chaqirish uchun ishlatiladi yani Voris `extends` `(dog)` ota `class` esa `(Animal)` - dan meros oladi `super()` esa ota `class` konsturktorini ishga tushuradi**
 ```java
 public class Animal {
