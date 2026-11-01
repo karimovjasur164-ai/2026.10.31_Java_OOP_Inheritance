@@ -14,7 +14,7 @@
 ```
 ***
 ### *Extends*
-**Yana bitta `class` boshqa `class`ning xususiyati va methodlari o'zlashtiradi** ![Extends](https://img.shields.io/badge/Extends-red)
+**Yana bitta `class` boshqa `class`ning xususiyati va methodlari o'zlashtiradi** ![Extends](https://img.shields.io/badge/Extends-blue)
 ```java
 public class Dog extends Main {
   public Dog (String name ) {
