@@ -38,4 +38,11 @@ public class Animal {
        this.age = age;
    }
 }
+class Dog extends Animal {
+   public Dog (String name, int age){
+      super(name, age);
+   }
+public static void main(String [] args){
+  Dog dog = new Dog();
+}
 ```
