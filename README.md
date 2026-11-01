@@ -13,7 +13,7 @@
     }
 ```
 ***
-*Extends*
+### *Extends*
 **Yana bitta `class` boshqa `class`ning xususiyati va methodlari o'zlashtiradi** ![Extends](https://img.shields.io/badge/Extends-red)
 ```java
 public class Dog extends Main {
