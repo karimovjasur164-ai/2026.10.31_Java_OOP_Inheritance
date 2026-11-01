@@ -13,4 +13,4 @@
     }
 ***
 **Extends**
-**Yana bitta `class` boshqa `class`ning xususiyati va methodlari o'zlashtiradi**![Inheritance](https://img.shields.io/badge/Inheritance-purple)
+**Yana bitta `class` boshqa `class`ning xususiyati va methodlari o'zlashtiradi**![Inheritance](https://img.shields.io/badge/Inheritance-orange)
