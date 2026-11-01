@@ -1,2 +1,2 @@
 ﻿# Inheritance
-** Founder : Rahimjonov Otabek
+** Founder : Rahimjonov Otabek**
