@@ -1,7 +1,7 @@
 ﻿# Inheritance ![Inheritance](https://img.shields.io/badge/Inheritance-purple)
 ## Founder : Rahimjonov Otabek
 ### HomeWork 
-**Protected**
+*Protected*
 **Bu `class` ichidagi ma'lumotni hamma `class` lar ishlatmasligi uchun cheklaydi, lekin ayrim `class` larga ruxsat beradi** ![Protected](https://img.shields.io/badge/Protected-yellow)
 ```java
     public class Main{
@@ -13,7 +13,7 @@
     }
 ```
 ***
-**Extends**
+*Extends*
 **Yana bitta `class` boshqa `class`ning xususiyati va methodlari o'zlashtiradi** ![Extends](https://img.shields.io/badge/Extends-red)
 ```java
 public class Dog extends Main {
