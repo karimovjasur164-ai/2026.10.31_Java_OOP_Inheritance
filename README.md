@@ -4,7 +4,7 @@
 
 ---
 
-### 🛡️ Protected modifikatori ![Protected](https://img.shields.io/badge/Protected-yellow)
+###  Protected modifikatori ![Protected](https://img.shields.io/badge/Protected-yellow)
 Bu klass ichidagi ma'lumotlarni hammadan cheklaydi, lekin undan meros olgan voris klasslarga va o'sha paket (package) ichidagi boshqa klasslarga ishlatish uchun ruxsat beradi.
 
 ```java
@@ -19,7 +19,7 @@ public class Main {
 
 ---
 
-### 🧬 Extends kalit so'zi ![Extends](https://img.shields.io/badge/Extends-blue)
+###  Extends kalit so'zi ![Extends](https://img.shields.io/badge/Extends-blue)
 Bitta klass boshqa klassning xususiyatlari va metodlarini o'zlashtirishi (meros olishi) uchun `extends` kalit so'zidan foydalaniladi.
 
 ```java
@@ -36,7 +36,7 @@ public class Dog extends Main {
 
 ---
 
-### 🔑 Super() metodi ![Super()](https://img.shields.io/badge/Super()-red)
+###  Super() metodi ![Super()](https://img.shields.io/badge/Super()-red)
 Java-da `super()` metodi ota (parent) klassning konstruktorini voris (child) klass ichidan chaqirish uchun ishlatiladi. Voris klass (`Dog`) ota klass (`Animal`) konstruktoriga kerakli parametrlarni uzatadi va uni ishga tushiradi.
 
 ```java
